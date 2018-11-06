@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MilgamPortalModelStoreContainer" CdmEntityContainer="MilgamPortalEntities">
+    <EntitySetMapping Name="Municipalities">
+      <EntityTypeMapping TypeName="MilgamPortalModel.Municipalities">
+        <MappingFragment StoreEntitySet="Municipalities">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="EngName" ColumnName="EngName" />
+          <ScalarProperty Name="CreationDate" ColumnName="CreationDate" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ContactFullName" ColumnName="ContactFullName" />
+          <ScalarProperty Name="ContactEmail" ColumnName="ContactEmail" />
+          <ScalarProperty Name="ContactPhone" ColumnName="ContactPhone" />
+          <ScalarProperty Name="GeneralRemarks" ColumnName="GeneralRemarks" />
+          <ScalarProperty Name="HeaderLogo" ColumnName="HeaderLogo" />
+          <ScalarProperty Name="SmallLogo" ColumnName="SmallLogo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,27 @@
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\MilgamPortalRepository.dll.config
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\MilgamPortalRepository.dll
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\MilgamPortalRepository.pdb
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\EntityFramework.dll
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\EntityFramework.xml
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\obj\Debug\MilgamPortalRepository.dll
+C:\Users\deby.enis\Documents\Visual Studio 2015\Projects\MilgamPortal\MilgamPortalRepository\obj\Debug\MilgamPortalRepository.pdb
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\MilgamPortalRepository.dll.config
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\MilgamPortalRepository.dll
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\MilgamPortalRepository.pdb
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\EntityFramework.dll
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\mscorlib.dll
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\System.Net.Http.dll
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\EntityFramework.xml
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\System.Net.Http.xml
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\normidna.nlp
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\normnfc.nlp
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\normnfd.nlp
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\normnfkc.nlp
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\bin\Debug\normnfkd.nlp
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\obj\Debug\MilgamPortalRepository.csprojResolveAssemblyReference.cache
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\obj\Debug\MilgamPortalRepository.dll
+D:\debb\New folder\MilgamPortal - MeiAvivim\MilgamPortalRepository\obj\Debug\MilgamPortalRepository.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MilgamPortalModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Municipalities">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="EngName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreationDate" Type="datetime" Nullable="false" />
+    <Property Name="Active" Type="bit" Nullable="false" />
+    <Property Name="ContactFullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContactEmail" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ContactPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="GeneralRemarks" Type="ntext" />
+    <Property Name="HeaderLogo" Type="nvarchar" MaxLength="50" />
+    <Property Name="SmallLogo" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="MilgamPortalModelStoreContainer">
+    <EntitySet Name="Municipalities" EntityType="Self.Municipalities" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
